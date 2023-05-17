@@ -1,2 +1,2 @@
 # stockprediction
-Stock price prediction app using fb prophet for forecasting
+An interactive stock price prediction app using fb prophet for forecasting, powered by streamlit
